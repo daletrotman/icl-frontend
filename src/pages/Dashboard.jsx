@@ -71,7 +71,7 @@ export default function Dashboard() {
           <div className="relative">
             <img
               src="/logo.png"
-              alt="Logo"
+              alt="Imagine Creative Living Logo"
               className="w-14 h-14 rounded-full border-4 border-indigo-300 shadow-md"
             />
             <span className="absolute bottom-0 right-0 w-3 h-3 bg-green-400 border-2 border-white rounded-full"></span>
@@ -93,8 +93,8 @@ export default function Dashboard() {
       <div className="bg-white p-6 rounded-xl shadow mb-10">
         <div className="grid md:grid-cols-2 gap-6">
           <img
-            src="/static/william-morris-room.jpg"
-            alt="Maximalist Interior Design"
+            src="/william-morris-room.png"
+            alt="William Morris Room"
             className="rounded-xl object-cover w-full h-80 shadow"
           />
           <div>
